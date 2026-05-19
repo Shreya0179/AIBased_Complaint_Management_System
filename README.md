@@ -1,6 +1,6 @@
 # AI-Based Smart Complaint Management System
 
-A MERN Stack based AI-powered Complaint Management System developed for ESE Examination (AI Driven Full Stack Development).
+A MERN Stack based AI-powered Complaint Management System.
 
 ## Features
 

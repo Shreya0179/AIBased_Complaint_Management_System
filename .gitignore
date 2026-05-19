@@ -7,7 +7,7 @@ backend/.env
 
 # Build Files
 frontend/dist
-
+frontend/.env
 # VS Code
 .vscode
 
